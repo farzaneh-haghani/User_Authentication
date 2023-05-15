@@ -1,9 +1,13 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import Header from "./Header";
 
 function Login() {
   return (
     <div className="app login-app">
+      <Link to="/">
+        <Header />
+      </Link>
       <form action="" method="post" className="form container">
         <h1>Login</h1>
         <label htmlFor="email">Email</label>
