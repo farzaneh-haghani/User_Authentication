@@ -1,0 +1,21 @@
+[
+  {
+    "userName": "farzaneh.haghani@gmail.com",
+    "password": "1234"
+  },
+  {
+    "name": "ll",
+    "email": "jj",
+    "password": "jj"
+  },
+  {
+    "name": "ll",
+    "email": "jj",
+    "hashPassword": "$2b$10$lCQJ9UHWfXjoyj1ywifOs.zAgWlf7RVL19TfMX1d8jdRBz.ptEXhO"
+  },
+  {
+    "name": "test",
+    "email": "test",
+    "hashPassword": "$2b$10$t8M5Ez0RiFJpSsqwm2t00uf..tHVaqozrvmMj00aaHpiv4Uo4BqUS"
+  }
+]
